@@ -5,3 +5,4 @@
 # Project
 [![DBManager](https://github-readme-stats.vercel.app/api/pin/?username=NyangBotLab&repo=DBManager_deploy&theme=dark&icon_color=f9f9f9)](https://github.com/NyangBotLab/DBManager_deploy)
 [![Kakao-cron](https://github-readme-stats.vercel.app/api/pin/?username=NyangBotLab&repo=kakao-cron-deploy&theme=dark&icon_color=f9f9f9)](https://github.com/NyangBotLab/kakao-cron-deploy)
+[![youtube-caption](https://github-readme-stats.vercel.app/api/pin/?username=NyangBotLab&repo=youtube_caption&theme=dark&icon_color=f9f9f9)](https://github.com/NyangBotLab/youtube_caption)
